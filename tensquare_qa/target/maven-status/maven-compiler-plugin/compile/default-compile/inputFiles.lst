@@ -1,0 +1,13 @@
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\config\InterceptorConfig.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\client\BaseClient.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\controller\ReplyController.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\controller\BaseExceptionHandler.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\dao\ReplyDao.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\controller\ProblemController.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\service\ProblemService.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\pojo\Problem.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\pojo\Reply.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\service\ReplyService.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\interceptor\JwtInterceptor.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\dao\ProblemDao.java
+F:\tensquare\tensquare_parent\tensquare_qa\src\main\java\com\tensquare\qa\QaApplication.java

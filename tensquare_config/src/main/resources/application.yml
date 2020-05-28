@@ -1,0 +1,21 @@
+server:
+  port: 12000
+spring:
+  application:
+    name: tensquare-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/itlpt/tensquare_dev.git
+          username: itlpt
+          password: li591849652
+  rabbitmq:
+    host: 172.19.136.26
+    username: guest
+    password: Li591849652
+management: #暴露触发消息总线的地址
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh

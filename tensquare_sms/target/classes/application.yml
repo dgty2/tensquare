@@ -1,0 +1,15 @@
+server:
+  port: 9009
+spring:
+  application:
+    name: tensquare-sms
+  rabbitmq:
+    host: 47.101.140.26
+    username: guest
+    password: li591849652
+aliyun:
+  sms:
+    accessKeyId: LTAIlfmKO8kh42yk
+    accessKeySecret: Z79I5PFNe7ucPuxL3B7G84RjPMKTIA
+    template_code: SMS_167396244
+    sign_name: 学成在线

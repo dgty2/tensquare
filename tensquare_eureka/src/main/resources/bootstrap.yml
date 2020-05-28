@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      name: eureka
+      profile: dev
+      label: master
+      uri: http://172.19.136.26:12000
+
