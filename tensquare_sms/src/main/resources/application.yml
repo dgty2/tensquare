@@ -6,7 +6,7 @@ spring:
   rabbitmq:
     host: 47.101.140.26
     username: guest
-    password: li591849652
+    password: 123456
 aliyun:
   sms:
     accessKeyId: LTAIlfmKO8kh42yk
