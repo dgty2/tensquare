@@ -9,7 +9,7 @@ spring:
     password: 123456
 aliyun:
   sms:
-    accessKeyId: LTAIlfmKO8kh42yk
-    accessKeySecret: Z79I5PFNe7ucPuxL3B7G84RjPMKTIA
+    accessKeyId:
+    accessKeySecret:
     template_code: SMS_167396244
     sign_name: 学成在线
